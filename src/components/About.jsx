@@ -46,12 +46,13 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-white text-[17px] max-w-3xl leading-[30px]"
       >
-        I’m a passionate software engineer with expertise in building dynamic
-        and scalable web applications. With a strong foundation in the MERN
-        stack and a focus on clean, efficient code, I excel in creating
-        user-friendly interfaces and robust backend systems. I thrive on solving
-        complex problems and continuously learning the latest technologies to
-        deliver high-quality software solutions.
+        Driven by a passion for uncovering data's hidden potential, I am a Big
+        Data Analyst dedicated to delivering impactful solutions. With a
+        foundation in Big Data Analytics from Conestoga College, I bring a blend
+        of technical expertise in Python, SQL, and data visualization, coupled
+        with a commitment to analytical rigor. I thrive on transforming complex
+        datasets into actionable insights, empowering organizations to make
+        informed decisions and achieve their strategic goals.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

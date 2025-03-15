@@ -9,17 +9,17 @@ const Hero = () => {
       <div
         className={`${styles.paddingX} absolute insert-0 top-[80px] max-w-7xl mx-auto flex flex-row z-20 items-start gap-5`}
       >
-        <div className="flex flex-col justify-center items-center mt-12">
+        <div className="flex flex-col justify-center items-center mt-10">
           <div className="w-5 h-5 rounded-full bg-[#fff]" />
           <div className="w-1 sm:h-80 h-60 bg-gradient-to-b from-white to-transparent" />
         </div>
         <div>
-          <h1 className={`${styles.heroHeadText} mt-8 text-white`}>
-            I'm Dhruv Soni
+          <h1 className={`${styles.heroHeadText} mt-6 text-white`}>
+            I'm Yatri Soni
           </h1>
           <p className={`${styles.heroSubText} mt-0 text-white-100`}>
-            A Young Software Engineer. Crafting Innovative Solutions with
-            Precision and Passion
+            A Driven Data Analyst. Transforming Raw Data into Strategic
+            Solutions with Precision and Passion.
           </p>
         </div>
       </div>
@@ -37,7 +37,7 @@ const Hero = () => {
                 repeat: Infinity,
                 repeatType: "loop",
               }}
-              className="w-3 h-3 rounded-full bg-white mb-1"
+              className="w-2 h-2 rounded-full bg-white mb-1"
             />
           </div>
         </a>
